@@ -4,8 +4,8 @@
  </head>
  <body>
  <?php echo '<p>Hello World</p>';
- print "php version" . PHP_VERSION . "\n";
- print "A change is comming\n";
+ print "php version" . PHP_VERSION . "\n</br>";
+ print "A change is comming\n </br>";
  ?> 
  </body>
 </html>
