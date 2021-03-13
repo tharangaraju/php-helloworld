@@ -5,7 +5,7 @@
  <body>
  <?php echo '<p>Hello World</p>';
  print "php version" . PHP_VERSION . "\n</br>";
- print "A change is comming\n </br>";
+ print "temprature is 37.1 c </br>";
  ?> 
  </body>
 </html>
