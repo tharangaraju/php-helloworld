@@ -6,7 +6,7 @@
  <?php echo '<p>Hello World</p>';
  print "php version" . PHP_VERSION . "\n</br>";
  print "temprature is 37.1 c </br>";
- print "hostname loadbalancer.ed1f.example.opentlc.com</br>";
+ print "hostname loadbalancer.5b37.example.opentlc.com</br>";
  ?> 
  </body>
 </html>
