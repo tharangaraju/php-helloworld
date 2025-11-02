@@ -6,7 +6,7 @@
  <?php echo '<p>Hello World</p>';
  print "php version" . PHP_VERSION . "\n</br>";
  print "You are using PHP deployment checker page developed by Tharanga</br>";
- print "You are welcome to modify this page</br>";
+ print "You are welcome to clone this project-page</br>";
  print "</br>";
  print "Build to test KUWAITNET OpenShift Demo</br>";
  ?> 
