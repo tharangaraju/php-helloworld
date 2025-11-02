@@ -8,7 +8,7 @@
  print "You are using PHP deployment checker page developed by Tharanga</br>";
  print "You are welcome to modify this page</br>";
  print "</br>";
- print "HR system for Openshift</br>";
+ print "Build to test KUWAITNET OpenShift Demo</br>";
  ?> 
  </body>
 </html>
